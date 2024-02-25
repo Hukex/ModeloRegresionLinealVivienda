@@ -17,7 +17,7 @@ This project was developed in order to learn **Lineal Regresion Model**;
 
 # Preview🔍
 
-[💠You can try it!💠](https://github.com/Hukex/ModeloRegresionLinealVivienda/blob/main/ModeloViviendaPrecioFEVM.ipynb?raw=true)
+[💠You can try it!💠](https://github.com/Hukex/ModeloRegresionLinealVivienda/blob/main/ModeloViviendaPrecioFEVM.ipynb)
 
 # Screenshots📷
 
